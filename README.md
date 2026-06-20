@@ -23,3 +23,8 @@
 **Current Learning Platforms:** Codar Tech Africa and TryHackMe
 
 **Goal:** Build a strong foundation in cybersecurity and consistently document my learning progress.
+
+
+
+
+##screenshot
