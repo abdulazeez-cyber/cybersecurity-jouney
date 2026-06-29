@@ -28,3 +28,32 @@
 
 
 ##screenshot
+
+# Week 2 – Linux Fundamentals (TryHackMe)
+
+## Overview
+Completed the **Linux Fundamentals** module on TryHackMe, where I learned the fundamentals of using the Linux operating system through the command line.
+
+## Skills Learned
+- Linux file system navigation
+- Basic Linux commands (`pwd`, `ls`, `cd`, `cat`, `mkdir`, `rm`, `cp`, `mv`)
+- Creating and managing files and directories
+- Understanding file permissions
+- Using the terminal efficiently
+
+## Hands-on Practice
+- Navigated directories using the terminal.
+- Created, copied, moved, and deleted files and folders.
+- Practiced working with file permissions.
+- Applied Linux commands in interactive labs.
+
+## Key Takeaway
+Linux is a foundational skill in cybersecurity because many servers, security tools, and penetration testing environments rely on it. Completing this module improved my confidence in navigating the Linux command line and performing essential file and system management tasks.
+
+## Badge
+🏅 Successfully completed the **Linux Fundamentals** module on TryHackMe.
+
+
+
+#Screenshot
+#screenshot
